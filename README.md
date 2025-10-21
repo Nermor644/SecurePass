@@ -7,5 +7,6 @@ It lets you choose the password length and whether to include symbols.
 
 Run in terminal:
 
-bash:
+```bash
 python3 password_generator.py
+
